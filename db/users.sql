@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_name`, `password`, `address`, `phone_number`) VALUES
-(10, 'raiyan@gmail.com', '8a09052c9601178c546f1ee513920cf2', 'bangalore', '7004806018');
+(10, 'raiyan@gmail.com', 'fea3996efc66f60e58cf57b317a37d3c', 'bangalore', '7004806018');
 
 --
 -- Indexes for dumped tables
